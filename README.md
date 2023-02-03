@@ -1,4 +1,4 @@
-#Simple React Text-To-Speech implementation
+# Simple React Text-To-Speech implementation
 
 A simple app that speaks based on the user input text.
 There are two input fields as user input.
