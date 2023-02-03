@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/Simple-Text-To-Speech-Implementation/static/css/main.37d3dc32.css",
-    "main.js": "/github.io/Simple-Text-To-Speech-Implementation/static/js/main.748d60f3.js",
-    "static/js/787.47678608.chunk.js": "/github.io/Simple-Text-To-Speech-Implementation/static/js/787.47678608.chunk.js",
-    "index.html": "/github.io/Simple-Text-To-Speech-Implementation/index.html",
-    "main.37d3dc32.css.map": "/github.io/Simple-Text-To-Speech-Implementation/static/css/main.37d3dc32.css.map",
-    "main.748d60f3.js.map": "/github.io/Simple-Text-To-Speech-Implementation/static/js/main.748d60f3.js.map",
-    "787.47678608.chunk.js.map": "/github.io/Simple-Text-To-Speech-Implementation/static/js/787.47678608.chunk.js.map"
+    "main.css": "/react-text-to-speech/static/css/main.37d3dc32.css",
+    "main.js": "/react-text-to-speech/static/js/main.c44b574b.js",
+    "static/js/787.47678608.chunk.js": "/react-text-to-speech/static/js/787.47678608.chunk.js",
+    "index.html": "/react-text-to-speech/index.html",
+    "main.37d3dc32.css.map": "/react-text-to-speech/static/css/main.37d3dc32.css.map",
+    "main.c44b574b.js.map": "/react-text-to-speech/static/js/main.c44b574b.js.map",
+    "787.47678608.chunk.js.map": "/react-text-to-speech/static/js/787.47678608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37d3dc32.css",
-    "static/js/main.748d60f3.js"
+    "static/js/main.c44b574b.js"
   ]
 }
