@@ -7,3 +7,4 @@ There are two input fields as user input.
 2. Text input field.
 
 When clicking on the SPEAK button after input field initiated, the app will read out loud the whole text with preferred pronunciation.
+Live link is added to the repo.
