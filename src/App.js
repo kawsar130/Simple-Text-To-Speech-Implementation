@@ -16,8 +16,8 @@ function App() {
     const voices = speechSynthesis.getVoices();
     const sortedVoices = _.sortBy(voices, [(item) => item.name]);
     setVoiceList(sortedVoices);
-    setVoice(sortedVoices[0]);
-  }, [speechSynthesis]);
+    setVoice(sortedVoices[16]);
+  }, [voiceList]);
 
   if (!voiceList) return null;
 
@@ -61,6 +61,7 @@ function App() {
         <select
           name="voice"
           id="voice"
+          disabled
           style={{
             padding: '10px 20px',
             borderRadius: '5px',
@@ -70,7 +71,7 @@ function App() {
           onChange={(e) => handleVoiceChange(e.target.value)}
         >
           {voiceList.map((lang, index) => (
-            <option key={index} value={index}>
+            <option key={index} value={index} selected={index === 16}>
               {lang.name}
             </option>
           ))}
